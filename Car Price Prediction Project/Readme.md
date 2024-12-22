@@ -28,7 +28,7 @@ This is a machine learning web application that predicts the price of a used car
 
 1. **Clone the repository** (if applicable):
    ```bash
-   git clone <repo-url>
+   git clone <[repo-url](https://github.com/AkashR9702/EliteTech-intern-Projects/tree/main/Car%20Price%20Prediction%20Project)>
    cd car-price-prediction
 
 2. Create and activate a virtual environment:
