@@ -7,11 +7,9 @@ This project demonstrates the classification of iris flowers into three species 
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
 
 ---
 
@@ -38,7 +36,7 @@ The Iris dataset is a classic dataset in machine learning, containing 150 sample
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Iris-Flower-Classification.git
+   git clone https://github.com/AkashR9702/Iris-Flower-Classification.git
 
 
 2. Navigate the project folder
@@ -51,7 +49,7 @@ The Iris dataset is a classic dataset in machine learning, containing 150 sample
 
 
 
-Usage
+##Usage
 
 Open the Jupyter Notebook:
 
@@ -63,7 +61,7 @@ Run the cells step-by-step to:
 3.Visualize results.
 
 
-Results
+##Results
 Accuracy: 100% on the test set.
 
 Cross-Validation Score: ~99.33% (mean of 5 folds).
