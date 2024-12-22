@@ -1,4 +1,4 @@
-# Iris Flower Classification
+   # Iris Flower Classification
 
 This project demonstrates the classification of iris flowers into three species — Setosa, Versicolor, and Virginica — based on their physical measurements (sepal length, sepal width, petal length, petal width). It utilizes a **Random Forest Classifier** from Scikit-learn and achieves high accuracy on the dataset.
 
@@ -49,7 +49,7 @@ The Iris dataset is a classic dataset in machine learning, containing 150 sample
 
 
 
-##Usage
+## Usage
 
 Open the Jupyter Notebook:
 
@@ -61,7 +61,7 @@ Run the cells step-by-step to:
 3.Visualize results.
 
 
-##Results
+## Results
 Accuracy: 100% on the test set.
 
 Cross-Validation Score: ~99.33% (mean of 5 folds).
